@@ -19,4 +19,4 @@ Lazy Picker Alpha is a program to solve the path finding problem. It will displa
 
 ## Example:
 
-![Astar](Manuals\screenshot\Astar.png)
+![Astar](Manuals/screenshot/A_star.png)
